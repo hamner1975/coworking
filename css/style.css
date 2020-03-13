@@ -1,0 +1,13 @@
+.btn_registra {
+  background-color: #003165;
+  color: #fff;
+  border-radius: 47px 47px 47px 47px;
+  -moz-border-radius: 47px 47px 47px 47px;
+  -webkit-border-radius: 47px 47px 47px 47px;
+  border: 0px solid #000000;
+}
+
+.btn_registra:hover {
+  background-color: #c33926;
+  color: #fff;
+}
